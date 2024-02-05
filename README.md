@@ -22,7 +22,4 @@ Both of them can rate each other after a trip, and each trip is saved to view th
 
 More detailed information about the functional behaviour see [Functional Documentation](./docs/functional/functional_doc.md).
 
-## Architecture
-
-
 
