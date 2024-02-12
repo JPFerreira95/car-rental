@@ -5,7 +5,6 @@ This project is inspired in a OOP course that I had in university.
 
 The objectives that led me to create this project are:
  - Apply Spring Boot in all back-end applications, with the use of Spring Security, Spring Web and Spring Data.
-Get;
  - Use of MongoDB as the main database;
  - Use of Redis for cache;
  - Integrate a front-end UI;
